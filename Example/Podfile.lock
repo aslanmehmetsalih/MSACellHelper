@@ -1,0 +1,16 @@
+PODS:
+  - MSACellHelper (0.1.0)
+
+DEPENDENCIES:
+  - MSACellHelper (from `../`)
+
+EXTERNAL SOURCES:
+  MSACellHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MSACellHelper: ac3a0803df3ddbf9e6cf4f1d8158c095a7066576
+
+PODFILE CHECKSUM: ef875034618f8b8bda5c4a81fb237faef7c5b808
+
+COCOAPODS: 1.5.3
