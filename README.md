@@ -22,7 +22,7 @@ pod 'MSACellHelper'
 
 ## Author
 
-aslanmehmetsalih, aslanmehmetsalih@hotmail.com
+aslanmehmetsalih, aslanmsalih@gmail.com
 
 ## License
 
