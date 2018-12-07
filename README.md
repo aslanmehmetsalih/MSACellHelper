@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'MSACellHelper'
 ```
 
-## Author
-
-aslanmehmetsalih, aslanmsalih@gmail.com
-
 ## License
 
 MSACellHelper is available under the MIT license. See the LICENSE file for more info.
