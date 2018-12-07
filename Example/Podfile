@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MSACellHelper_Example' do
+  pod 'MSACellHelper', :path => '../'
+
+  target 'MSACellHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
